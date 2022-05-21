@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arjunashh
+- 👋 Hi, I’m Arjun Satheesh,  @arjunashh
 - 👀 I’m interested in updating small games and creating websites
 - 🌱 I’m currently learning to create full-on games
 - 💞️ I’m looking to collaborate on nothing :)
