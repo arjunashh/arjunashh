@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunashh
 - 👀 I’m interested in updating small games and creating websites
-- 🌱 I’m currently learning to create full on games
+- 🌱 I’m currently learning to create full-on games
 - 💞️ I’m looking to collaborate on nothing :)
 - 📫 How to reach me: Mail me at arjunsats@gmail.com
 
